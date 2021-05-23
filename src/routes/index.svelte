@@ -1,8 +1,3 @@
-<script>
-	import MenuButton from '../components/MenuButton.svelte'
-	
-</script>
-
-<div>
-	<h1>Sensible Sapper Starter</h1>
-</div>
+<article>
+	<h1>WHIMages</h1>
+</article>

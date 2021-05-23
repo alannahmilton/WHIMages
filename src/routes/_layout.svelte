@@ -1,9 +1,3 @@
-<script>
-	import MenuButton from '../components/MenuButton.svelte'
-</script>
-
-<MenuButton />
-
 <main>
 	<slot></slot>
 </main>
