@@ -13,6 +13,17 @@
 
 <div class="item">
 	<figure>
+		<img src="img/summer.jpeg" alt="summer">
+		<figcaption>Agnes Martin's Summer</figcaption>
+	</figure>
+	<p>
+You look for something in those crinkles, a secret image perhaps. But maybe the dots and rectangles is all there is. You’ve just realised how your mind works ~ meaning-maker.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
 		<img src="img/sunset.png" alt="sunset">
 		<figcaption>Brett Whiteley's Big orange (sunset)</figcaption>
 	</figure>
