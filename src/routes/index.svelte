@@ -13,6 +13,39 @@
 
 <div class="item">
 	<figure>
+		<img src="img/altarpiece.jpeg" alt="Altarpiece">
+		<figcaption>Hilma af Klint’s Altarpiece No. 1</figcaption>
+	</figure>
+	<p>
+	Sun Spectrum leads the way. Sun Sequence centres the path. Sun Supreme greets your end. Feels vital and sure.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/untitled.jpeg" alt="untitled">
+		<figcaption>Cy Twombly's Untitled</figcaption>
+	</figure>
+	<p>
+	Manic marks from the building site or public toilet or building site public toilet. A private language in plain sight.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/thekiss.jpeg" alt="thekiss">
+		<figcaption>Gustav Klimt’s The Kiss</figcaption>
+	</figure>
+	<p>
+	Lovers. Man’s blocks, woman’s spirals:: side by side + on the edge. A golden union ((or reunion)) in a mythic meadow.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
 		<img src="img/summer.jpeg" alt="summer">
 		<figcaption>Agnes Martin's Summer</figcaption>
 	</figure>
@@ -39,7 +72,7 @@ You look for something in those crinkles, a secret image perhaps. But maybe the 
 		<figcaption>Frida Kahlo's The Two Fridas</figcaption>
 	</figure>
 	<p>
-		A steady depiction of the dying that goes on while we are living. And a  clouded wall that confirms this is the world inside.
+		A steady depiction of the dying that goes on while we are living. And a clouded wall that confirms this is the world inside.
 	</p>
 	<hr />
 </div>
@@ -50,7 +83,7 @@ You look for something in those crinkles, a secret image perhaps. But maybe the 
 		<figcaption>Arundhati Vartak's Baobab</figcaption>
 	</figure>
 	<p>
-		Pregnant baobab standing still. Offering a home under hot cadmium skies. This flat painting soothes in its smoothness and stylised lines.
+		Pregnant baobab standing still. Offering a home under hot cadmium skies. This flat painting soothes in its smooth surface and stylised lines.
 	</p>
 	<hr />
 </div>
