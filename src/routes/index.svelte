@@ -13,7 +13,29 @@
 
 <div class="item">
 	<figure>
-		<img src="img/altarpiece.jpeg" alt="Altarpiece">
+		<img src="img/lilacreef.jpeg" alt="lilacreef">
+		<figcaption>Ken Done's Lilac Reef</figcaption>
+	</figure>
+	<p>
+	Purple. The most difficult colour to paint with. So this is a lilac miracle. The application feels rushed but intuitive. Very pretty without the proper. Coral reverie.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/brokenegg.jpeg" alt="brokenegg">
+		<figcaption>John Olsen’s Broken Egg and Summer Landscape</figcaption>
+	</figure>
+	<p>
+	The sun breaks open and spills life on a hard land. Wibbley lines crack the pavement crust. And a corroding corner threatens to run its rust over the rest.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/altarpiece.jpeg" alt="altarpiece">
 		<figcaption>Hilma af Klint’s Altarpiece No. 1</figcaption>
 	</figure>
 	<p>
