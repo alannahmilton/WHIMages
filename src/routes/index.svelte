@@ -13,6 +13,17 @@
 
 <div class="item">
 	<figure>
+		<img src="img/.jpg" alt="">
+		<figcaption></figcaption>
+	</figure>
+	<p>
+
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
 		<img src="img/nightroad.jpg" alt="nightroad">
 		<figcaption>Tim Storrier's The night road</figcaption>
 	</figure>
