@@ -13,6 +13,61 @@
 
 <div class="item">
 	<figure>
+		<img src="img/nightroad.jpg" alt="nightroad">
+		<figcaption>Tim Storrier's The night road</figcaption>
+	</figure>
+	<p>
+	Herculean blue:: not just a sky, but mount olympus. Clouds dyed from the azue atmosphere.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/red.jpg" alt="red">
+		<figcaption>Alexander Caldor’s Big Red</figcaption>
+	</figure>
+	<p>
+	A moment from a mobile. Balance and grace across planes.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/leap.png" alt="leap">
+		<figcaption>Robert Malherbe’s Govetts Leap</figcaption>
+	</figure>
+	<p>
+	Movement in the mountains:: sun slides down the rock face. The valley and the paint flurry to wrap around the next bend.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/moth.png" alt="moth">
+		<figcaption>Lucy Culliton’s Carina’s bogong moth jumper</figcaption>
+	</figure>
+	<p>
+	The weight of wings:: mould a moth over your body this winter. Feel it’s pixel stitches on your skin. Be second to a butterfly. Your next of kin.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/sorrow.jpeg" alt="sorrow">
+		<figcaption>Henry Matisse's Sorrow of the King</figcaption>
+	</figure>
+	<p>
+	Frogbaby and death play cello to a terminal angel. Music prayers for salvation served with mortality.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
 		<img src="img/lilacreef.jpeg" alt="lilacreef">
 		<figcaption>Ken Done's Lilac Reef</figcaption>
 	</figure>
