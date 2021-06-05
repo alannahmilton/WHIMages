@@ -17,7 +17,7 @@
 		<figcaption>Tim Storrier's The night road</figcaption>
 	</figure>
 	<p>
-	Herculean blue:: not just a sky, but mount olympus. Clouds dyed from the azue atmosphere.
+	Herculean blue:: not just a sky, but mount olympus. Clouds dyed from the azure atmosphere.
 	</p>
 	<hr />
 </div>
@@ -57,7 +57,7 @@
 
 <div class="item">
 	<figure>
-		<img src="img/sorrow.jpeg" alt="sorrow">
+		<img src="img/sorrow.png" alt="sorrow">
 		<figcaption>Henry Matisse's Sorrow of the King</figcaption>
 	</figure>
 	<p>
