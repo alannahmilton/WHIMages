@@ -13,11 +13,65 @@
 
 <div class="item">
 	<figure>
-		<img src="img/.jpg" alt="">
-		<figcaption></figcaption>
+		<img src="img/fishmagic.jpeg" alt="fishmagic">
+		<figcaption>Paul Klee’s Fish Magic</figcaption>
 	</figure>
 	<p>
+Welcome to the celestial sea. Discovered in the dark through etchings, a dive with divination.
+	</p>
+	<hr />
+</div>
 
+<div class="item">
+	<figure>
+		<img src="img/boxer.jpeg" alt="boxer">
+		<figcaption>Jean-Michel Basquiat's Boxer Rebellion</figcaption>
+	</figure>
+	<p>
+Rapid fire words. Slow burn box. A mechanised moment that speaks for itself.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/sheleads.jpg" alt="sheleads">
+		<figcaption>Nicholas Roerich’s She Who Leads</figcaption>
+	</figure>
+	<p>The woman leads through the landscape. And yet she check on her follower. Her head is to them. Her heart, to the terrain.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/rothkountitled.jpeg" alt="rothkountitled">
+		<figcaption>Mark Rothko’s Untitled</figcaption>
+	</figure>
+	<p>
+Composing with orange. Stare at the centre long enuff and you’ve got yourself an optical illusion. Dark orange fades in the light.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/carnival.jpeg" alt="carnival">
+		<figcaption>Joan Miró’s Harlequin's Carnival</figcaption>
+	</figure>
+	<p>
+Manic imagined celebrations. The surrealist confrontation of woozy whims.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/monk.jpeg" alt="monk">
+		<figcaption>Caspar David Friedrich’s Monk on the Seashore</figcaption>
+	</figure>
+	<p>
+Standing at the ink, feeling your smallness. It will harrow or help when you can’t see the cloud’s corners.
 	</p>
 	<hr />
 </div>
