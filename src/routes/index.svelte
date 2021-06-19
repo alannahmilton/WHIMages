@@ -13,6 +13,50 @@
 
 <div class="item">
 	<figure>
+		<img src="img/earthly.jpg" alt="earthly">
+		<figcaption>Hieronymus Bosch's The Garden of Earthly Delights</figcaption>
+	</figure>
+	<p>
+A timeline tale of excess on earth. Bosch’s caution. Man’s calling.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/ror.jpg" alt="ror">
+		<figcaption>CJ Hendry’s Rorschach</figcaption>
+	</figure>
+	<p>
+Drawing a scoring. I see mirror girl peddling her finger as the thing to be obeyed.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/bluea.jpg" alt="bluea">
+		<figcaption>Margaret Mellis’ Blue Anemone</figcaption>
+	</figure>
+	<p>
+No water in the jar. No solvents in the paint. Rough.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/prelim.jpg" alt="prelim">
+		<figcaption>Julie Mehretu's Untitled</figcaption>
+	</figure>
+	<p>
+Perfect preliminaries:: working things out through work. Understanding your own language.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
 		<img src="img/fishmagic.jpeg" alt="fishmagic">
 		<figcaption>Paul Klee’s Fish Magic</figcaption>
 	</figure>
