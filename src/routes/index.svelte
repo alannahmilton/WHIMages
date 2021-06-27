@@ -35,7 +35,7 @@ Tending to the other half of the cycle - blooms born from mortal dust. Seasonal 
 
 <div class="item">
 	<figure>
-		<img src="img/threebathers.jpg" alt="threebathers">
+		<img src="img/threebathers.jpeg" alt="threebathers">
 		<figcaption>Ernst Ludwig's Three Bathers</figcaption>
 	</figure>
 	<p>
@@ -46,7 +46,7 @@ Tending to the other half of the cycle - blooms born from mortal dust. Seasonal 
 
 <div class="item">
 	<figure>
-		<img src="img/prayingshands.jpg" alt="prayinghands">
+		<img src="img/prayingshands.png" alt="prayinghands">
 		<figcaption>Albrecht Dürer's Praying Hands</figcaption>
 	</figure>
 	<p>
