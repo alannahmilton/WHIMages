@@ -46,7 +46,7 @@ Tending to the other half of the cycle - blooms born from mortal dust. Seasonal 
 
 <div class="item">
 	<figure>
-		<img src="img/prayingshands.png" alt="prayinghands">
+		<img src="img/prayinghands.png" alt="prayinghands">
 		<figcaption>Albrecht Dürer's Praying Hands</figcaption>
 	</figure>
 	<p>
