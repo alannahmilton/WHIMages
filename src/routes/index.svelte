@@ -11,6 +11,27 @@
 </div> -->
 <!-- END TEMPLATE -->
 
+<div class="item">
+	<figure>
+		<img src="img/birdbath.jpeg" alt="birdbath">
+		<figcaption>Leonora Carrington's Bird Bath</figcaption>
+	</figure>
+	<p>
+Spray until innocent. Spay until clean. The dirty work is due.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/deathgarden.jpeg" alt="deathgarden">
+		<figcaption>Hugo Simberg's The Garden of Death</figcaption>
+	</figure>
+	<p>
+Tending to the other half of the cycle - blooms born from mortal dust. Seasonal changes.
+	</p>
+	<hr />
+</div>
 
 <div class="item">
 	<figure>
@@ -36,7 +57,7 @@
 
 <div class="item">
 	<figure>
-		<img src="img/desertmoon.jpg" alt="desertmoon">
+		<img src="img/desertmoon.jpeg" alt="desertmoon">
 		<figcaption>Lee Krasner's Desert Moon</figcaption>
 	</figure>
 	<p>
