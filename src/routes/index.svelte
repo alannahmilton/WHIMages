@@ -11,6 +11,51 @@
 </div> -->
 <!-- END TEMPLATE -->
 
+
+<div class="item">
+	<figure>
+		<img src="img/threebathers.jpg" alt="threebathers">
+		<figcaption>Ernst Ludwig's Three Bathers</figcaption>
+	</figure>
+	<p>
+	Women emerging slightly unnerving. Lipsticked in the leaves.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/prayingshands.jpg" alt="prayinghands">
+		<figcaption>Albrecht Dürer's Praying Hands</figcaption>
+	</figure>
+	<p>
+	Stop your holy thoughts and speech. The lord sees the hands.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/desertmoon.jpg" alt="desertmoon">
+		<figcaption>Lee Krasner's Desert Moon</figcaption>
+	</figure>
+	<p>
+	Lunar lit sands and strips of land. Paintings pulled together from above.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/gettingdown.jpg" alt="gettingdown">
+		<figcaption>Georgia Spain's Getting down or falling up</figcaption>
+	</figure>
+	<p>
+	Only a moment is lived out of the cave, usually before death. Struggle to stand or enjoy the fall.
+	</p>
+	<hr />
+</div>
+
 <div class="item">
 	<figure>
 		<img src="img/earthly.jpg" alt="earthly">
