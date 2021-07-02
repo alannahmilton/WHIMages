@@ -69,10 +69,10 @@ A state of abstract directions. Your map is my mayhem.
 <div class="item">
 	<figure>
 		<img src="img/leven.jpeg" alt="leven">
-		<figcaption>X</figcaption>
+		<figcaption>Charlotte Salomon's Leven? of Theater? </figcaption>
 	</figure>
 	<p>
-X
+All the in between stuff is life and it's all a big watery soup and the soup is being stirred up by some master soup stirrer from above.
 	</p>
 	<hr />
 </div>
