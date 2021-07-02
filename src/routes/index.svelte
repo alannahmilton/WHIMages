@@ -13,6 +13,72 @@
 
 <div class="item">
 	<figure>
+		<img src="img/outsider.jpeg" alt="outsider">
+		<figcaption>X</figcaption>
+	</figure>
+	<p>
+X
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/scotland.png" alt="scotland">
+		<figcaption>X</figcaption>
+	</figure>
+	<p>
+X
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/roses.jpeg" alt="roses">
+		<figcaption>X</figcaption>
+	</figure>
+	<p>
+X
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/blind.jpeg" alt="blind">
+		<figcaption>X</figcaption>
+	</figure>
+	<p>
+X
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/map.jpeg" alt="map">
+		<figcaption>X</figcaption>
+	</figure>
+	<p>
+X
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/leven.jpeg" alt="leven">
+		<figcaption>X</figcaption>
+	</figure>
+	<p>
+X
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
 		<img src="img/birdbath.jpeg" alt="birdbath">
 		<figcaption>Leonora Carrington's Bird Bath</figcaption>
 	</figure>
