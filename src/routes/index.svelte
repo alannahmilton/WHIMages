@@ -25,10 +25,10 @@ X
 <div class="item">
 	<figure>
 		<img src="img/scotland.png" alt="scotland">
-		<figcaption>X</figcaption>
+		<figcaption>Grace Hartigan's Scotland</figcaption>
 	</figure>
 	<p>
-X
+Nessie specimen, possibly a rogue rugrats angelica pulled by stream gravity.
 	</p>
 	<hr />
 </div>
@@ -36,10 +36,10 @@ X
 <div class="item">
 	<figure>
 		<img src="img/roses.jpeg" alt="roses">
-		<figcaption>X</figcaption>
+		<figcaption>Vincent Van Gogh's Roses</figcaption>
 	</figure>
 	<p>
-X
+Blooms in bounty. Anticipating a green emergence.
 	</p>
 	<hr />
 </div>
@@ -47,10 +47,10 @@ X
 <div class="item">
 	<figure>
 		<img src="img/blind.jpeg" alt="blind">
-		<figcaption>X</figcaption>
+		<figcaption>John Everett Millais' The Blind Girl</figcaption>
 	</figure>
 	<p>
-X
+Feeling the bow when you can’t see it. Holding the child when you can’t be it.
 	</p>
 	<hr />
 </div>
@@ -58,10 +58,10 @@ X
 <div class="item">
 	<figure>
 		<img src="img/map.jpeg" alt="map">
-		<figcaption>X</figcaption>
+		<figcaption>Jasper John's Map</figcaption>
 	</figure>
 	<p>
-X
+A state of abstract directions. Your map is my mayhem.
 	</p>
 	<hr />
 </div>
