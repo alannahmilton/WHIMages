@@ -13,11 +13,55 @@
 
 <div class="item">
 	<figure>
-		<img src="img/outsider.jpeg" alt="outsider">
-		<figcaption>X</figcaption>
+		<img src="img/retro.jpeg" alt="retro">
+		<figcaption>Keith Haring's Retrospect</figcaption>
 	</figure>
 	<p>
-X
+Tiled moves. Some innocence and some questions. Each a bold act.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/forgive.jpeg" alt="forgieve">
+		<figcaption>Banksy's Forgive Us Our Trespassing</figcaption>
+	</figure>
+	<p>
+In the name of beauty, Amen.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/scream.jpeg" alt="scream">
+		<figcaption>Edvard Munch’s The Scream</figcaption>
+	</figure>
+	<p>
+	Sobered swirling. Internal muring. Just a walk on the boat ramp.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/guern.jpeg" alt="guern">
+		<figcaption>Pablo Picasso's Guernica</figcaption>
+	</figure>
+	<p>
+Prismatic prison. Cruel curation. Ghosty gaunlet.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/iris.tiff" alt="iris">
+		<figcaption>Georgia O'Keeffe's Black Iris</figcaption>
+	</figure>
+	<p>
+An enveloped entry. A soft mystery.
 	</p>
 	<hr />
 </div>
