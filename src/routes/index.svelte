@@ -13,6 +13,50 @@
 
 <div class="item">
 	<figure>
+		<img src="img/coto.jpeg" alt="coto">
+		<figcaption>Frederic Edwin Church's Cotopaxi</figcaption>
+	</figure>
+	<p>
+When the sun isn't rising right. No new day hope. Prey pray.
+</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/flo.jpeg" alt="flo">
+		<figcaption>Alfred Henry Maurer's The Florentines</figcaption>
+	</figure>
+	<p>
+Tunnel vision that stares at you. Velvet dresses on primal faces.
+</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/red.jpeg" alt="red">
+		<figcaption>Georgia O'Keefee's Red Cannas</figcaption>
+	</figure>
+	<p>
+A bird in a bloom. An unsure entrance.
+</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/irises.jpeg" alt="irises">
+		<figcaption>Vincent Van Gogh’s Irises</figcaption>
+	</figure>
+	<p>
+Tender cures. A study for sanity.
+</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
 		<img src="img/retro.jpeg" alt="retro">
 		<figcaption>Keith Haring's Retrospect</figcaption>
 	</figure>
