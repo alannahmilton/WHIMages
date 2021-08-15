@@ -101,17 +101,6 @@ Prismatic prison. Cruel curation. Ghosty gaunlet.
 
 <div class="item">
 	<figure>
-		<img src="img/iris.tiff" alt="iris">
-		<figcaption>Georgia O'Keeffe's Black Iris</figcaption>
-	</figure>
-	<p>
-An enveloped entry. A soft mystery.
-	</p>
-	<hr />
-</div>
-
-<div class="item">
-	<figure>
 		<img src="img/scotland.png" alt="scotland">
 		<figcaption>Grace Hartigan's Scotland</figcaption>
 	</figure>
@@ -183,6 +172,17 @@ Spray until innocent. Spay until clean. The dirty work is due.
 	</figure>
 	<p>
 Tending to the other half of the cycle - blooms born from mortal dust. Seasonal changes.
+	</p>
+	<hr />
+</div>
+
+<div class="item">
+	<figure>
+		<img src="img/iris.jpeg" alt="iris">
+		<figcaption>Georgia O'Keeffe's Black Iris</figcaption>
+	</figure>
+	<p>
+An enveloped entry. A soft mystery.
 	</p>
 	<hr />
 </div>
